@@ -7,5 +7,6 @@ lightgbm
 shap
 groq
 streamlit
+pyngrok
 joblib
 kaggle
