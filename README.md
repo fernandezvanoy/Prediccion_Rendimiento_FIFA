@@ -6,7 +6,7 @@ LightGBM y reportes de scouting generados con LLM (Groq).
 
 ## Integrantes
 - Luis Moreno Gutiérrez
-- Antonia Muñoz Jiménez
+- Maria Antonia Muñoz Jiménez
 - Juan Carlos Fernández Vanoy
 
 Universidad EAFIT · Inteligencia Artificial · 2026-1
